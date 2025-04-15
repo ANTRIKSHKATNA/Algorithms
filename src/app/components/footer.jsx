@@ -16,7 +16,7 @@ export default function Footer() {
     <footer className="bg-background py-6 px-6 mt-12 border-t">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="text-sm text-muted-foreground mb-4 md:mb-0">
-          © {new Date().getFullYear()} Mohammad Tamimul Ehsan. All rights reserved.
+          © {new Date().getFullYear()}  Antriksh Katna. All rights reserved.
         </div>
         <div className="flex flex-wrap justify-center gap-2">
           {/* <Button variant="outline" size="sm">
@@ -39,11 +39,11 @@ export default function Footer() {
             <GitFork className="mr-2 h-4 w-4" />
             Fork
           </Button> */}
-        <GitHubButton href="https://github.com/TamimEhsan" data-show-count="true" data-size='large' aria-label="Follow @TamimEhsan on GitHub">Follow @TamimEhsan</GitHubButton>
-        <GitHubButton href="https://github.com/TamimEhsan/AlgorithmVisualizer" data-icon="octicon-star" data-size='large' data-show-count="true" aria-label="Star TamimEhsan/Pathfinder-2.0 on GitHub">Star</GitHubButton>
-        <GitHubButton href="https://github.com/TamimEhsan/AlgorithmVisualizer/fork" data-icon="octicon-repo-forked" data-size='large' data-show-count="true" aria-label="Fork TamimEhsan/Pathfinder-2.0 on GitHub">Fork</GitHubButton>
+        <GitHubButton href="https://github.com/ANTRIKSHKATNA" data-show-count="true" data-size='large' aria-label="Follow @ANTRIKSHKATNA on GitHub">Follow @ANTRIKSHKATNA</GitHubButton>
+        <GitHubButton href="https://github.com/ANTRIKSHKATNA/AlgorithmVisualizer" data-icon="octicon-star" data-size='large' data-show-count="true" aria-label="Star ANTRIKSHKATNA/Pathfinder-2.0 on GitHub">Star</GitHubButton>
+        <GitHubButton href="https://github.com/ANTRIKSHKATNA/AlgorithmVisualizer/fork" data-icon="octicon-repo-forked" data-size='large' data-show-count="true" aria-label="Fork ANTRIKSHKATNA/Pathfinder-2.0 on GitHub">Fork</GitHubButton>
         <div>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.AlgorithmVisualizer" alt="Hits"/>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=ANTRIKSHKATNA.AlgorithmVisualizer" alt="Hits"/>
         </div>
         </div>
       </div>

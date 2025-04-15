@@ -13,11 +13,11 @@ export default function Navbar(props) {
             Home
           </Link>
         </Button>
-        <Button variant="ghost" size="lg" asChild>
+        {/* <Button variant="ghost" size="lg" asChild>
           <Link href="/about">About</Link>
-        </Button>
+        </Button> */}
         <Button size="icon" variant="ghost">
-          <Link href="https://github.com/TamimEhsan/AlgorithmVisualizer">
+          <Link href="https://github.com/ANTRIKSHKATNA/AlgorithmVisualizer">
             <Github className="h-5 w-5" />
           </Link>
         </Button>
